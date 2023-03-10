@@ -40,10 +40,14 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
+.mvn
 *.iws
 *.iml
 *.ipr
+target/
+out/
+test/
 
 ### NetBeans ###
 /nbproject/private/
